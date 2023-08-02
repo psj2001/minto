@@ -13,3 +13,7 @@ A few resources to get you started if this is your first Flutter project:
 ![Screenshot_1690970121](https://github.com/psj2001/minto/assets/110088329/36a9fadb-eea4-4e27-b5d8-df4b76cbcaa9)
 ![Screenshot_1690970142](https://github.com/psj2001/minto/assets/110088329/154d32eb-3fa6-4ee4-9981-9a9d8c385e8a)
 ![Screenshot_1690970153](https://github.com/psj2001/minto/assets/110088329/87431787-9507-4e5b-8175-6f78556e9cf5)
+
+
+https://github.com/psj2001/minto/assets/110088329/ffa38be1-a29c-4633-ab7d-7cbc553cc4a4
+
